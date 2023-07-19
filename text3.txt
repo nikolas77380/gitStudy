@@ -1,1 +1,1 @@
-this is text3 file for git lesson
+I think this should be change 
